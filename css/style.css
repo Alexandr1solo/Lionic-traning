@@ -357,6 +357,10 @@ header {
     border-bottom: 1px solid #DADADA;
 }
 
+.articles-more {
+    cursor: pointer;
+}
+
 .articles-list {
     flex-wrap: wrap;
     display: flex;
